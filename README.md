@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JiangtaoShi&label=Profile%20views&color=0e75b6&style=flat" alt="JiangtaoShi" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JiangtaoShi" alt="JiangtaoShi" /></a> </p>
 
-- 🌱 I’m currently learning **DDD, User Story,ASP.NET Core,EF Core,Docker、Devops**
+- 🌱 I’m currently learning **DDD, ASP.NET Core, Golang, Docker, Devops**
 
 - 📫 How to reach me **1332031367@qq.com**
 
